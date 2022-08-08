@@ -3,7 +3,6 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
 import AboutMe from "./components/AboutMe/AboutMe";
-import SetAppointments from "./components/SetAppointments/SetAppointments";
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Skills from "./components/Skills/Skills";
@@ -20,7 +19,6 @@ function App() {
 				</div>
 				<MainSection />
 				<AboutMe />
-				<SetAppointments/>
 				<Skills />
 				<Projects />
 				<Footer />

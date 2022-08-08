@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import NavLink from "./NavLink/NavLink";
 import { MdMenu } from "react-icons/md";
+import SetAppointments from "../SetAppointments/SetAppointments";
+
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -30,6 +32,7 @@ const Navbar = () => {
 					<MdMenu />
 				</button>
 				<div className={`navbar-links${navLinksState}`}>
+					<SetAppointments/>
 					<NavLink link="#home" hide={hideNavbar}>
 						Home
 					</NavLink>

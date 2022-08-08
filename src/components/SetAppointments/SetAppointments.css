@@ -7,7 +7,7 @@
 .button-link {
 	display: block;
 	position: relative;
-	width: 7rem;
+	width: 20rem;
 	z-index: 50;
 	padding: 0.25rem;
 	font-size: 1.1rem;
@@ -23,7 +23,7 @@
 
 .button-link::before {
 	content: "";
-	width: 35%;
+	width: 10%;
 	height: 100%;
 	position: absolute;
 	left: 0;
@@ -32,7 +32,7 @@
 	z-index: -100;
 	transform: skew(-25deg);
 	transition: all 0.7s ease-in-out;
-	animation: hoverBtnAnimation 0.9s linear infinite;
+	animation: hoverBtnAnimation 4s linear infinite;
 }
 
 .button-link:hover::before {
