@@ -2,7 +2,7 @@ import React from "react";
 import "./Project.css";
 
 const Project = (props) => {
-	const { title, demoLink, sourceCodeLink, imageSrc } = props.project;
+	const { title, demoLink, imageSrc } = props.project;
 
 	return (
 		<div className="project-container">
@@ -18,18 +18,10 @@ const Project = (props) => {
 						target="_blank"
 						rel="noreferrer noopener"
 					>
-						Demo
+						Project Website
 					</a>
 				) : null}
 
-				<a
-					href={sourceCodeLink}
-					className="button-link"
-					target="_blank"
-					rel="noreferrer noopener"
-				>
-					GitHub
-				</a>
 			</div>
 		</div>
 	);

@@ -1,51 +1,39 @@
 import React from "react";
-import ecommerceImg from "../../images/ecommerce-site.png";
-import netflixCloneImg from "../../images/netflix.png";
-import contactKeeperImg from "../../images/contact-keeper.PNG";
-import chatAppImg from "../../images/socketio.png";
+import Swallow from "../../images/Swallow_Tattoo.png";
+import Grayblock from "../../images/Grayblock_power.png";
+import Ape from "../../images/Ape_Project.png";
 import Project from "../Project/Project";
-import blogImage from "../../images/blog-image.PNG";
-import CPMC from "../../images/cpmc-website.PNG";
+import donkey from "../../images/Don-key_finance.png";
+import Lava from "../../images/Lava_Financial.png";
 import "./Projects.css";
 
 const Projects = () => {
 	//List of projects
 	const projects = [
 		{
-			title: "Personal Blog",
-			demoLink: "https://nishantbhosale.vercel.app/",
-			sourceCodeLink: "https://github.com/Nishant-Bhosale/Personal-Blog",
-			imageSrc: blogImage,
+			title: "Don-key.Finance",
+			demoLink: "https://don-key.finance/",
+			imageSrc: donkey,
 		},
 		{
-			title: "Contact-Keeper",
-			demoLink: "http://contact-keeper7.herokuapp.com/",
-			sourceCodeLink: "https://github.com/Nishant-Bhosale/ContackKeeper",
-			imageSrc: contactKeeperImg,
+			title: "The Ape Project",
+			demoLink: "https://www.apeproject.io/",
+			imageSrc: Ape,
 		},
 		{
-			title: "E-Commerce WebApp",
-			demoLink: "https://ecommerce-site-9d5dc7.netlify.app/",
-			sourceCodeLink: "https://github.com/Nishant-Bhosale/amazon-clone",
-			imageSrc: ecommerceImg,
+			title: "Grayblock Power",
+			demoLink: "https://www.grayblockpower.com/",
+			imageSrc: Grayblock,
 		},
 		{
-			title: "CPMC Website",
-			demoLink: "https://cpmc-dypcoe.vercel.app/",
-			sourceCodeLink: "https://github.com/Spyware007/CPMC-DYPCOE-OFFICIAL",
-			imageSrc: CPMC,
+			title: "Lava Financial",
+			demoLink: "https://www.lava.financial/",
+			imageSrc: Lava,
 		},
 		{
-			title: "Netflix-Clone",
-			demoLink: "http://netflix-movie-app-clone.herokuapp.com/",
-			sourceCodeLink: "https://github.com/Nishant-Bhosale/MovieApp",
-			imageSrc: netflixCloneImg,
-		},
-		{
-			title: "Chat-App",
-			demoLink: "https://evening-badlands-19902.herokuapp.com/",
-			sourceCodeLink: "https://github.com/Nishant-Bhosale/Chat-App",
-			imageSrc: chatAppImg,
+			title: "Swallow Tattoo",
+			demoLink: "https://www.swallow.digital/",
+			imageSrc: Swallow,
 		},
 	];
 

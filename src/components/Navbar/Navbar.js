@@ -20,7 +20,7 @@ const Navbar = () => {
 		<div className="navbar">
 			<div className="navbar__content content-container-fluid">
 				<a className="navbar__title" href="/">
-					<h1>Nishant Bhosale</h1>
+					<h1>Yonatan Martsiano</h1>
 				</a>
 				<button
 					className="navbar__menu"
