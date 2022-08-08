@@ -3,7 +3,7 @@ import React from "react";
 const MainSection = () => {
 	return (
 		<div className="main-section">
-			<h2 style={{ color: "white" }}>Hii, I Am</h2>
+			<h2 style={{ color: "white" }}>Hi, I Am</h2>
 			<ul>
 				<li>Y</li>
 				<li>O</li>

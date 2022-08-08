@@ -1,30 +1,24 @@
 import React from "react";
-import ReactLogo from "../../images/react.png";
-import cssLogo from "../../images/css.png";
-import expressLogo from "../../images/express.png";
-import htmlLogo from "../../images/html.png";
+import SolidityLogo from "../../images/Solidity_logo.png";
+import rustLogo from "../../images/Rust_logo.png";
 import typescriptLogo from "../../images/typescript.png";
-import javaLogo from "../../images/java.png";
-import firebaseLogo from "../../images/firebase.png";
-import mongodbLogo from "../../images/mongodb.png";
+import medicineLogo from "../../images/Medicine_logo.png";
+import ethereumLogo from "../../images/ethereum_logo.png";
 import javascriptLogo from "../../images/javascript.png";
-import nodeLogo from "../../images/node-js.png";
+import web3Logo from "../../images/Web3_logo.png";
 import pythonLogo from "../../images/python.png";
 import gitLogo from "../../images/git.png";
 import "./Skills.css";
 
 const Skills = () => {
 	const images = [
-		htmlLogo,
-		cssLogo,
+		rustLogo,
+		SolidityLogo,
 		javascriptLogo,
-		mongodbLogo,
-		expressLogo,
-		ReactLogo,
-		nodeLogo,
-		javaLogo,
+		ethereumLogo,
+		web3Logo,
+		medicineLogo,
 		typescriptLogo,
-		firebaseLogo,
 		pythonLogo,
 		gitLogo,
 	];

@@ -72,40 +72,31 @@ border-radius: 50%;
 }
 
 .skills-container .image-1 {
---rotation: 30deg;
+--rotation: 40deg;
 }
 
 .skills-container .image-2 {
---rotation: 60deg;
+--rotation: 80deg;
 }
 .skills-container .image-3 {
---rotation: 90deg;
-}
-.skills-container .image-4 {
 --rotation: 120deg;
 }
+.skills-container .image-4 {
+--rotation: 160deg;
+}
 .skills-container .image-5 {
---rotation: 150deg;
+--rotation: 200deg;
 }
 .skills-container .image-6 {
---rotation: 180deg;
-}
-.skills-container .image-7 {
---rotation: 210deg;
-}
-.skills-container .image-8 {
 --rotation: 240deg;
 }
+.skills-container .image-7 {
+--rotation: 280deg;
+}
+.skills-container .image-8 {
+--rotation: 320deg;
+}
 .skills-container .image-9 {
---rotation: 270deg;
-}
-.skills-container .image-10 {
---rotation: 300deg;
-}
-.skills-container .image-11 {
---rotation: 330deg;
-}
-.skills-container .image-12 {
 --rotation: 360deg;
 }
 

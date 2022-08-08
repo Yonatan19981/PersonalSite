@@ -20,6 +20,13 @@ const Footer = () => {
 				>
 					<i className="fab fa-github"></i>
 				</a>
+				<a
+					href="mailto:yonatan888@gmail.com"
+					target="_blank"
+					rel="noreferrer noopener"
+				>
+					<i className="far fa-envelope"></i>
+				</a>
 			</div>
 			<p style={{ color: "white", margin: "1rem", paddingTop: "2rem" }}>
 				Yonatan Martsiano &copy; 2022
