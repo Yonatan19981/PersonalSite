@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 import ReactGA from 'react-ga';
 
-ReactGA.initialize('G-6XN2V3D5C0');
+ReactGA.initialize('G-LCYDLBGL8E');
 ReactDOM.render(
 	<React.StrictMode>
 		<App />
