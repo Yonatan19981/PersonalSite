@@ -2,9 +2,13 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import ReactGA from 'react-ga';
+import TagManager from 'react-gtm-module'
+ 
+const tagManagerArgs = {
+    gtmId: 'G-LCYDLBGL8E'
+}
+TagManager.initialize(tagManagerArgs)
 
-ReactGA.initialize('G-LCYDLBGL8E');
 ReactDOM.render(
 	<React.StrictMode>
 		<App />

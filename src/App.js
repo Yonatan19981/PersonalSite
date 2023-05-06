@@ -13,6 +13,7 @@ function App() {
 	return (
 		<BrowserRouter>
 			<div className="App">
+				
 				<Navbar />
 				<div className="animation-container" id="home">
 					<BackgroundAnimation />
