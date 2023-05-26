@@ -59,7 +59,7 @@ const Globe3D = () => {
       <div className="main-text">
         <h1>Yonatan Martsiano</h1>
         <p>
-          The world of blockchain at your fingertips.
+          The World Of Blockchain At Your Fingertips.
         </p>
         <canvas
           ref={canvasRef}
