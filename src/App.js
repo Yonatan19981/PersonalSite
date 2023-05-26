@@ -6,7 +6,7 @@ import AboutMe from "./components/AboutMe/AboutMe";
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Skills from "./components/Skills/Skills";
-import MainSection from "./components/MainSection/MainSection";
+//import MainSection from "./components/MainSection/MainSection";
 import Globe3D from "./components/3D/Globe3D";
 function App() {
 	return (

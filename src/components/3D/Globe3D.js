@@ -1,7 +1,7 @@
 
 import createGlobe from "cobe";
 import "./Styles.css";
-import GlobeBackground from "./GlobeBackground";
+//import GlobeBackground from "./GlobeBackground";
 import { useEffect, useRef, useState } from 'react';
 import './Styles.css'; // import your CSS styles
 

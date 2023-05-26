@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c864b2b.css",
+    "main.js": "/static/js/main.e5e89a7f.js",
+    "static/media/Swallow_Tattoo.png": "/static/media/Swallow_Tattoo.29cb38e0417ba77ccbdd.png",
+    "static/media/Lava_Financial.png": "/static/media/Lava_Financial.e12186f1db9398783f9e.png",
+    "static/media/Ape_Project.png": "/static/media/Ape_Project.2110a7b270100d53f645.png",
+    "static/media/Don-key_finance.png": "/static/media/Don-key_finance.e2d156b47a8d21ab2adc.png",
+    "static/media/Grayblock_power.png": "/static/media/Grayblock_power.f9f342cf36a174e62bf1.png",
+    "index.html": "/index.html",
+    "main.4c864b2b.css.map": "/static/css/main.4c864b2b.css.map",
+    "main.e5e89a7f.js.map": "/static/js/main.e5e89a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c864b2b.css",
+    "static/js/main.e5e89a7f.js"
+  ]
+}
