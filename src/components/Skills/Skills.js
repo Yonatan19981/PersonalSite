@@ -1,8 +1,8 @@
 import React from "react";
-import SolidityLogo from "../../images/Solidity_logo.png";
+import reactLogo from "../../images/react.png";
 import rustLogo from "../../images/Rust_logo.png";
 import typescriptLogo from "../../images/typescript.png";
-import medicineLogo from "../../images/Medicine_logo.png";
+import javaLogo from "../../images/java.png";
 import ethereumLogo from "../../images/ethereum_logo.png";
 import javascriptLogo from "../../images/javascript.png";
 import web3Logo from "../../images/Web3_logo.png";
@@ -13,11 +13,11 @@ import "./Skills.css";
 const Skills = () => {
 	const images = [
 		rustLogo,
-		SolidityLogo,
+		reactLogo,
 		javascriptLogo,
 		ethereumLogo,
 		web3Logo,
-		medicineLogo,
+		javaLogo,
 		typescriptLogo,
 		pythonLogo,
 		gitLogo,

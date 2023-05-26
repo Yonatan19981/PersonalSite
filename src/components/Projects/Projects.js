@@ -38,7 +38,7 @@ const Projects = () => {
 	];
 
 	return (
-		<div style={{ background: "rgb(40, 40, 40)" }}>
+		<div id="background">
 			<h1 className="work-heading">Selected Works As A Blockchain Developer</h1>
 			<div id="work" className="projects-container" projects={projects}>
 				{projects.map((project, index) => {

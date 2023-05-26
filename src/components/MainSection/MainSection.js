@@ -1,8 +1,15 @@
 import React from "react";
-
+import BackgroundAnimation from "../Background/Background";
 const MainSection = () => {
 	return (
+		<div>
+
+<div className="animation-container" id="home">
+					<BackgroundAnimation />
+				</div>
+	
 		<div className="main-section">
+			
 			<h2 style={{ color: "white" }}>Hi, I Am</h2>
 			<ul>
 				<li>Y</li>
@@ -26,6 +33,7 @@ const MainSection = () => {
 			<h3 className="main-heading">
 				I Love <span></span>
 			</h3>
+		</div>
 		</div>
 	);
 };

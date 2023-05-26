@@ -1,13 +1,13 @@
 #skills {
 height: auto;
 width: 100%;
-background-color: white;
+
 text-align: left;
 padding-bottom: 2rem;
 }
 
 #skills > h1 {
-color: black;
+color: white;
 margin-top: -1rem;
 padding: 2rem 0rem 0rem 2rem;
 margin: auto;
