@@ -4,7 +4,7 @@ import "./Styles.css";
 //import GlobeBackground from "./GlobeBackground";
 import { useEffect, useRef, useState } from 'react';
 import './Styles.css'; // import your CSS styles
-
+import "./Background.css";
 const Globe3D = () => {
   const canvasRef = useRef();
   const [canvasSize, setCanvasSize] = useState(window.innerWidth < 600 ? window.innerWidth : 600);
