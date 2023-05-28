@@ -7,12 +7,11 @@ const AboutMe = () => {
 
 				<p>
 					I am a solidity and blockchain developer. I love learning and developing new
-					Ideas from concepts and into code. 
+					ideas from concepts and into code. 
 				</p>
 				<p>
-					When I am not writing code, you will find me studing
-					new things , I love people and using technology. I also
-					enjoy cooking.
+					When I am not writing code, you will find me studying
+					new things , I love people and using technology.
 				</p>
 				<p>
 					I read a lot about new blockchain code developments and 
