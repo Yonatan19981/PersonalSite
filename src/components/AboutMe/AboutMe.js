@@ -6,7 +6,7 @@ const AboutMe = () => {
 				<h1>About Me </h1>
 
 				<p>
-					I am a solidity and blockchain developer. I love learning and developing new
+					I am a software and solution developer . I love learning and developing new
 					ideas from concepts and into code. 
 				</p>
 				<p>
@@ -14,8 +14,8 @@ const AboutMe = () => {
 					new things , I love people and using technology.
 				</p>
 				<p>
-					I read a lot about new blockchain code developments and 
-					technology.
+					I read a lot about new code developments and 
+					Implementations
 				</p>
 			</div>
 		</div>
