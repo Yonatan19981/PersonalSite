@@ -39,7 +39,7 @@ const Globe3D = () => {
       glowColor: [1, 1, 1],
       markers: [
         // longitude latitude
-        { location: [31.0461, 34.8516], size: 0.1 }
+         { location: [28.6139, 77.2090], size: 0.05 }, { location: [39.9042, 116.4074], size: 0.05 }, { location: [31.9686, 99.9018], size: 0.05 }, { location: [55.7512, 37.6184], size: 0.05 }, { location: [23.8103, 90.4125], size: 0.05 }, { location: [31.2244, 121.4759], size: 0.05 }, { location: [37.7749, -122.4194], size: 0.05 }, { location: [34.0522, -118.2437], size: 0.05 }, { location: [41.9028, 12.4964], size: 0.05 }, { location: [22.5726, 88.3639], size: 0.05 }, { location: [37.5665, 126.9780], size: 0.05 }, { location: [19.4326, -99.1332], size: 0.05 }, { location: [-6.2088, 106.8456], size: 0.05 }, { location: [33.6844, 73.0479], size: 0.05 }, { location: [41.0082, 28.9784], size: 0.05 }, { location: [-34.6037, -58.3816], size: 0.05 }, { location: [35.6892, 51.3890], size: 0.05 }, { location: [40.7128, -74.0060], size: 0.05 }, { location: [4.7109, -74.0721], size: 0.05 }, { location: [12.9716, 77.5946], size: 0.05 }, { location: [30.0444, 31.2357], size: 0.05 }, { location: [25.2769, 51.5183], size: 0.05 }, { location: [-33.4489, -70.6693], size: 0.05 }, { location: [-23.5505, -46.6333], size: 0.05 }, { location: [-22.9068, -43.1729], size: 0.05 }, { location: [23.6345, -102.5528], size: 0.05 }, { location: [55.7558, 37.6176], size: 0.05 }, { location: [-33.8688, 151.2093], size: 0.05 }, { location: [33.8886, 35.4955], size: 0.05 }
       ],
       onRender: (state) => {
         // Called on every animation frame.
@@ -59,7 +59,7 @@ const Globe3D = () => {
       <div className="main-text">
         <h1>Yonatan Martsiano</h1>
         <p>
-          The World Of Blockchain At Your Fingertips.
+          Technology At Your Fingertips.
         </p>
         <canvas
           ref={canvasRef}
