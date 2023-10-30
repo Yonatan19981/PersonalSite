@@ -3,6 +3,8 @@ import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
 import AboutMe from "./components/AboutMe/AboutMe";
+import Research from "./components/Research/Research";
+import Mobile from "./components/Mobile/Mobile";
 import React from "react";
 import { BrowserRouter } from "react-router-dom";
 import Skills from "./components/Skills/Skills";
@@ -19,6 +21,8 @@ function App() {
 				<AboutMe />
 				<Skills />
 				<Projects />
+				<Research />
+				<Mobile />
 				<Footer />
 			</div>
 		</BrowserRouter>
